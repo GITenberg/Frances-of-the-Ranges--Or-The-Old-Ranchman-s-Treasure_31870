@@ -1,0 +1,27 @@
+_repo: Frances-of-the-Ranges--Or-The-Old-Ranchman-s-Treasure_31870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Amy Bell
+    gutenberg_agent_id: '26286'
+    url: http://www.gutenberg.org/2009/agents/26286
+description: ''
+gutenberg_issued: '2010-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Texas -- Juvenile fiction'
+title: Frances of the Ranges; Or, The Old Ranchman's Treasure
+url: http://www.gutenberg.org/ebooks/31870
